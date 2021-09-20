@@ -1,0 +1,13 @@
+说明：
+
+workspace：工作区
+staging area：暂存区/缓存区
+local repository：版本库或本地仓库
+
+remote repository：远程仓库
+git init - 初始化仓库。
+git add . - 添加文件到暂存区。
+git commit - 将暂存区内容添加到仓库中。
+我们可以用 --oneline 选项来查看历史记录的简洁的版本。
+git log --oneline
+
